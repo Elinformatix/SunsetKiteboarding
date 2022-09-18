@@ -21,8 +21,9 @@ const Navbar = () => {
         </div>
       </div>
       <div className="gpt3__navbar-sign">
-        <p>Sign in</p>
-        <button type="button">Sign up</button>
+        <a href='https://main--sunny-cajeta-c022bd.netlify.app/' target={'_blank'}>
+        <button type="button">Launch dApp</button>
+        </a>
       </div>
       <div className="gpt3__navbar-menu">
         {toggleMenu
@@ -38,8 +39,10 @@ const Navbar = () => {
             <p><a href="#blog">Library</a></p>
           </div>
           <div className="gpt3__navbar-menu_container-links-sign">
-            <p>Sign in</p>
-            <button type="button">Sign up</button>
+          <a href='https://main--sunny-cajeta-c022bd.netlify.app/' target={'_blank'}>
+  
+            <button type="button">Aunch dApp</button>
+          </a>
           </div>
         </div>
         )}
