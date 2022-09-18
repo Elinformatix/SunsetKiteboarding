@@ -33,15 +33,15 @@ const Navbar = () => {
         <div className="gpt3__navbar-menu_container scale-up-center">
           <div className="gpt3__navbar-menu_container-links">
             <p><a href="#home">Home</a></p>
-            <p><a href="#wgpt3">What is GPT3?</a></p>
-            <p><a href="#possibility">Open AI</a></p>
-            <p><a href="#features">Case Studies</a></p>
-            <p><a href="#blog">Library</a></p>
+            <p><a href="#wgpt3">Courses</a></p>
+            <p><a href="#possibility">Downwinds</a></p>
+            <p><a href="#features">Rentals</a></p>
+            <p><a href="#blog">About u</a></p>
           </div>
           <div className="gpt3__navbar-menu_container-links-sign">
           <a href='https://main--sunny-cajeta-c022bd.netlify.app/' target={'_blank'}>
   
-            <button type="button">Aunch dApp</button>
+            <button type="button">Launch dApp</button>
           </a>
           </div>
         </div>
