@@ -12,8 +12,8 @@ const WhatGPT3 = () => (
       <Feature title="COURSES PRICING" text="The focus of the content depends on the individual learning speed and is adapted to each student We work with helmet, life jacket and radio communication for immediate feedback on the water and fast learning." />
     </div>  
     <div class="overflow-x-auto relative shadow-md sm:rounded-lg">
-        <table class="w-full text-sm text-left text-gray-500 dark:text-gray-400">
-            <thead class="text-sm text-gray-700 uppercase bg-gray-50 dark:bg-[#040C18] dark:text-gray-100">
+        <table class="w-full text-sm text-left text-gray-400">
+            <thead class="text-sm  uppercase  bg-[#040C18] text-gray-100">
                 <tr>
                     <th scope="col" class="py-3 px-6">
                         LESSONS
@@ -27,14 +27,12 @@ const WhatGPT3 = () => (
                     <th scope="col" class="py-3 px-6">
                         PRICE
                     </th>
-                    <th scope="col" class="py-3 px-6">
-                        <span class="sr-only">Edit</span>
-                    </th>
+
                 </tr>
             </thead>
             <tbody>
-                <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-800 hover:bg-gray-50 dark:hover:bg-gray-600">
-                    <th scope="row" class="py-4 px-6 font-medium text-gray-900 whitespace-nowrap dark:text-slate-400">
+                <tr class=" border-b bg-gray-900 border-gray-800 hover:bg-gray-600">
+                    <th scope="row" class="py-4 px-6 font-medium  whitespace-nowrap text-slate-400">
                         SINGLE HOUR
                     </th>
                     <td class="py-4 px-6">
@@ -46,12 +44,10 @@ const WhatGPT3 = () => (
                     <td class="py-4 px-6">
                         R$350
                     </td>
-                    <td class="py-4 px-6 text-right">
-                        <a href="#" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Edit</a>
-                    </td>
+
                 </tr>
-                <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-800 hover:bg-gray-50 dark:hover:bg-gray-600">
-                    <th scope="row" class="py-4 px-6 font-medium text-gray-900 whitespace-nowrap dark:text-slate-400">
+                <tr class=" border-b bg-gray-900 border-gray-800 hover:bg-gray-600">
+                    <th scope="row" class="py-4 px-6 font-medium  whitespace-nowrap text-slate-400">
                         SUNSET EXPERIENCE
                     </th>
                     <td class="py-4 px-6">
@@ -63,12 +59,10 @@ const WhatGPT3 = () => (
                     <td class="py-4 px-6">
                         R$825
                     </td>
-                    <td class="py-4 px-6 text-right">
-                        <a href="#" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Edit</a>
-                    </td>
+
                 </tr>
-                <tr class="bg-white border-b dark:border-gray-800 dark:bg-gray-900 hover:bg-gray-50 dark:hover:bg-gray-600">
-                    <th scope="row" class="py-4 px-6 font-medium text-gray-900 whitespace-nowrap dark:text-slate-400">
+                <tr class=" border-b bg-gray-900 border-gray-800 hover:bg-gray-600">
+                    <th scope="row" class="py-4 px-6 font-medium  whitespace-nowrap text-slate-400">
                         SUNSET START
                     </th>
                     <td class="py-4 px-6">
@@ -80,12 +74,10 @@ const WhatGPT3 = () => (
                     <td class="py-4 px-6">
                         R$1260
                     </td>
-                    <td class="py-4 px-6 text-right">
-                        <a href="#" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Edit</a>
-                    </td>
+
                 </tr>
-                <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-800 hover:bg-gray-50 dark:hover:bg-gray-600">
-                    <th scope="row" class="py-4 px-6 font-medium text-gray-900 whitespace-nowrap dark:text-slate-400">
+                <tr class=" border-b bg-gray-900 border-gray-800 hover:bg-gray-600">
+                    <th scope="row" class="py-4 px-6 font-medium  whitespace-nowrap text-slate-400">
                         SUNSET EVOLUTION
                     </th>
                     <td class="py-4 px-6">
@@ -97,12 +89,10 @@ const WhatGPT3 = () => (
                     <td class="py-4 px-6">
                         R$2213
                     </td>
-                    <td class="py-4 px-6 text-right">
-                        <a href="#" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Edit</a>
-                    </td>
+
                 </tr>
-                <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-800 hover:bg-gray-50 dark:hover:bg-gray-600">
-                    <th scope="row" class="py-4 px-6 font-medium text-gray-900 whitespace-nowrap dark:text-slate-400">
+                <tr class=" border-b bg-gray-900 border-gray-800 hover:bg-gray-600">
+                    <th scope="row" class="py-4 px-6 font-medium  whitespace-nowrap text-slate-400">
                         SUNSET INSIDE
                     </th>
                     <td class="py-4 px-6">
@@ -114,12 +104,10 @@ const WhatGPT3 = () => (
                     <td class="py-4 px-6">
                         R$2800
                     </td>
-                    <td class="py-4 px-6 text-right">
-                        <a href="#" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Edit</a>
-                    </td>
+
                 </tr>
-                <tr class="bg-white  dark:bg-gray-900 dark:border-gray-700 hover:bg-gray-50 dark:hover:bg-gray-600">
-                    <th scope="row" class="py-4 px-6 font-medium text-gray-900 whitespace-nowrap dark:text-slate-400">
+                <tr class=" border-b bg-gray-900 border-gray-800 hover:bg-gray-600">
+                    <th scope="row" class="py-4 px-6 font-medium  whitespace-nowrap text-slate-400">
                         GROUP LESSON
                     </th>
                     <td class="py-4 px-6">
@@ -131,19 +119,17 @@ const WhatGPT3 = () => (
                     <td class="py-4 px-6">
                         R$575
                     </td>
-                    <td class="py-4 px-6 text-right">
-                        <a href="#" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Edit</a>
-                    </td>
+
                 </tr>
             </tbody>
         </table>
     </div>
     <div className="gpt3__whatgpt3-feature py-10">
-      <Feature title="RENTALS PRICING" text="We have the new core 2020 models in different sizes." />
+      <Feature title="RENTALS PRICING" text="We have the new core models in different sizes." />
     </div>  
     <div class="overflow-x-auto relative shadow-md sm:rounded-lg">
-        <table class="w-full text-sm text-left text-gray-500 dark:text-gray-400">
-            <thead class="text-sm text-gray-700 uppercase bg-gray-50 dark:bg-[#040C18] dark:text-gray-100">
+        <table class="w-full text-sm text-left text-gray-400">
+            <thead class="text-sm bg-[#040C18] text-gray-100">
                 <tr>
                     <th scope="col" class="py-3 px-6">
                         EQUIPMENT
@@ -157,14 +143,12 @@ const WhatGPT3 = () => (
                     <th scope="col" class="py-3 px-6">
                         PRICE
                     </th>
-                    <th scope="col" class="py-3 px-6">
-                        <span class="sr-only">Edit</span>
-                    </th>
+
                 </tr>
             </thead>
             <tbody>
-                <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-800 hover:bg-gray-50 dark:hover:bg-gray-600">
-                    <th scope="row" class="py-4 px-6 font-medium text-gray-900 whitespace-nowrap dark:text-slate-400">
+                <tr class=" border-b bg-gray-900 border-gray-800 hover:bg-gray-600">
+                    <th scope="row" class="py-4 px-6 font-medium whitespace-nowrap text-slate-400">
                         ONLY KITE
                     </th>
                     <td class="py-4 px-6">
@@ -176,12 +160,10 @@ const WhatGPT3 = () => (
                     <td class="py-4 px-6">
                         R$150
                     </td>
-                    <td class="py-4 px-6 text-right">
-                        <a href="#" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Edit</a>
-                    </td>
+
                 </tr>
-                <tr class="bg-white border-b dark:bg-gray-900 dark:border-gray-800 hover:bg-gray-50 dark:hover:bg-gray-600">
-                    <th scope="row" class="py-4 px-6 font-medium text-gray-900 whitespace-nowrap dark:text-slate-400">
+                <tr class=" border-b bg-gray-900 border-gray-800 hover:bg-gray-600">
+                    <th scope="row" class="py-4 px-6 font-medium whitespace-nowrap text-slate-400">
                         PACK ONLY KITE
                     </th>
                     <td class="py-4 px-6">
@@ -193,12 +175,10 @@ const WhatGPT3 = () => (
                     <td class="py-4 px-6">
                         R$400
                     </td>
-                    <td class="py-4 px-6 text-right">
-                        <a href="#" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Edit</a>
-                    </td>
+
                 </tr>
-                <tr class="bg-white border-b dark:border-gray-800 dark:bg-gray-900 hover:bg-gray-50 dark:hover:bg-gray-600">
-                    <th scope="row" class="py-4 px-6 font-medium text-gray-900 whitespace-nowrap dark:text-slate-400">
+                <tr class=" border-b bg-gray-900 border-gray-800 hover:bg-gray-600">
+                    <th scope="row" class="py-4 px-6 font-medium whitespace-nowrap text-slate-400">
                         FULL EQUIPMENT
                     </th>
                     <td class="py-4 px-6">
@@ -210,12 +190,10 @@ const WhatGPT3 = () => (
                     <td class="py-4 px-6">
                         R$250
                     </td>
-                    <td class="py-4 px-6 text-right">
-                        <a href="#" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Edit</a>
-                    </td>
+
                 </tr>
-                <tr class="bg-white dark:bg-gray-900 hover:bg-gray-50 dark:hover:bg-gray-600">
-                    <th scope="row" class="py-4 px-6 font-medium text-gray-900 whitespace-nowrap dark:text-slate-400">
+                <tr class=" border-b bg-gray-900 border-gray-800 hover:bg-gray-600">
+                    <th scope="row" class="py-4 px-6 font-medium whitespace-nowrap text-slate-400">
                         PACK FULL EQUIPMENT
                     </th>
                     <td class="py-4 px-6">
@@ -227,9 +205,7 @@ const WhatGPT3 = () => (
                     <td class="py-4 px-6">
                         R$600
                     </td>
-                    <td class="py-4 px-6 text-right">
-                        <a href="#" class="font-medium text-blue-600 dark:text-blue-500 hover:underline">Edit</a>
-                    </td>
+
                 </tr>
 
             </tbody>
